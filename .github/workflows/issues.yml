@@ -3,7 +3,7 @@ name: Review Issues
 on:
   issues:
     types: [opened]
-
+thanks
 jobs:
   review:
     runs-on: ubuntu-latest
